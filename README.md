@@ -42,7 +42,7 @@ I’m a Junior Full Stack Developer who's improving his skills day by building F
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white) 
 ![Tkinter](https://img.shields.io/badge/Tkinter-100000?style=for-the-badge&logo=Tkinter&logoColor=FFFFFF&labelColor=B8B1FF&color=B8B1FF)
 ![API](https://img.shields.io/badge/API-100000?style=for-the-badge&logo=API&logoColor=FFFFFF&labelColor=5746FF&color=5746FF) 
-![REST API](https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=REST API&logoColor=FFFFFF&labelColor=DBD8FF&color=DBD8FF) 
+![REST API](https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=REST_API&logoColor=FFFFFF&labelColor=909EDD&color=909EDD) 
 ![bcrypt](https://img.shields.io/badge/Bcrypt-100000?style=for-the-badge&logo=BCRYPT&logoColor=FFFFFF&labelColor=96E782&color=96E782) 
 ![OAuth 2.0](https://img.shields.io/badge/OAUTH_2.0-100000?style=for-the-badge&logo=OAUTH&logoColor=FFFFFF&labelColor=FF4949&color=FF4949) 
 
