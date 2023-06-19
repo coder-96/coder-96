@@ -30,7 +30,7 @@ I’m a Junior Full Stack Developer who's improving his skills day by building F
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Mongoose](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4-Bo1LlnJ1iBV5dLEen2fHDyO8tRRHLevntjcLCajKUqbtXZvSPKFC6wIAPwjDEKQaY&usqp=CAU)
+![Mongoose](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4-Bo1LlnJ1iBV5dLEen2fHDyO8tRRHLevntjcLCajKUqbtXZvSPKFC6wIAPwjDEKQaY&usqp=CAU){:height="20px" width="100px"}
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
