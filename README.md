@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨ About Me?
 
-I’m a Junior Full Stack Developer who's improving his skills day by building Frontend and Backend projects.
+I’m a Junior Full Stack Developer who's improving his skills daily by building Frontend and Backend projects.
 
 💻 Technologies I learned and can work with:
 
