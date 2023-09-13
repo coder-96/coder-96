@@ -49,6 +49,6 @@ I’m a Junior Full Stack Developer who's improving his skills daily by building
 
 #### 🔗 Links to social media platforms
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ernazarov.kg) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keen_for_more) 
 
 _____________________________________________________________________________________________________
